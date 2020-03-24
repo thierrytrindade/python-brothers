@@ -1,4 +1,4 @@
-#!C:\Users\ASUS\Documents\python-brothers\PyCharm\CursoemVideo\venv\Scripts\python.exe
+#!C:\Users\ASUS\Documents\python-brothers\PyCharm\PythonExercicios\venv\Scripts\python.exe
 # EASY-INSTALL-ENTRY-SCRIPT: 'pip==19.0.3','console_scripts','pip'
 __requires__ = 'pip==19.0.3'
 import re
